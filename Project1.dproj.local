@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/07/07 22:07:11.000.390,=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/09 15:34:15.404,=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2019/04/09 15:34:16.165,=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/04/09 15:34:54.777,C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project2\WebModuleUnit1.pas=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/04/09 15:34:54.777,C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project2\WebModuleUnit1.dfm=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2019/04/09 15:34:57.534,C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project2\FormUnit1.dfm=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+    <Transaction>2019/04/09 15:34:57.534,C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project2\FormUnit1.pas=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2019/04/09 15:34:59.785,C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project2\Project1.dproj=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/04/09 15:38:57.965,=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project2\Unit1.pas</Transaction>
+    <Transaction>2019/04/09 15:44:42.999,C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project2\numeroPorExtenso.pas=C:\Users\sandro\Documents\Embarcadero\Studio\Projects\Project2\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
